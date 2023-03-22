@@ -1,5 +1,7 @@
 ### Hi there, my name is Iván 👋
 - 💬 Ask me about my personal projects.
+- 🔭 Software engineering, Cloud and Data Engineering
+
 
 
 <!--
